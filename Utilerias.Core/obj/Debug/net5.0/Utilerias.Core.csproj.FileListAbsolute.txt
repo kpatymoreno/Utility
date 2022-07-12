@@ -1,0 +1,12 @@
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\bin\Debug\net5.0\Utilerias.Core.deps.json
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\bin\Debug\net5.0\Utilerias.Core.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\bin\Debug\net5.0\ref\Utilerias.Core.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\bin\Debug\net5.0\Utilerias.Core.pdb
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.csproj.AssemblyReference.cache
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.AssemblyInfoInputs.cache
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.AssemblyInfo.cs
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.csproj.CoreCompileInputs.cache
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\ref\Utilerias.Core.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Core\obj\Debug\net5.0\Utilerias.Core.pdb

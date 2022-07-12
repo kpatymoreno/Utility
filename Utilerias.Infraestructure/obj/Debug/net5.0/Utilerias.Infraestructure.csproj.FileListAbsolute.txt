@@ -1,0 +1,12 @@
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\bin\Debug\net5.0\Utilerias.Infraestructure.deps.json
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\bin\Debug\net5.0\Utilerias.Infraestructure.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\bin\Debug\net5.0\ref\Utilerias.Infraestructure.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\bin\Debug\net5.0\Utilerias.Infraestructure.pdb
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.AssemblyInfo.cs
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\ref\Utilerias.Infraestructure.dll
+C:\Users\Quelepa\source\repos\Utilerias\Utilerias.Infraestructure\obj\Debug\net5.0\Utilerias.Infraestructure.pdb

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4eNjYVLjXzLGVUHdqPx2gkAeRkl3EpLKxJfGBvm76uMjg0K2S+CFw/jKujgLRvagqDkdx5n3VtJVimQIhUO1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quelepa\\source\\repos\\Utilerias\\Utilerias.Infraestructure\\Utilerias.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quelepa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\oracle.manageddataaccess\\21.6.1\\oracle.manageddataaccess.21.6.1.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Oracle.ManagedDataAccess 21.6.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Oracle.ManagedDataAccess",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

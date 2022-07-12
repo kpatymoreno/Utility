@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c14hkR3yHRCFV1DFn4FoF1jrqLIBndBfImj+2dQ13rIXeXZ4kGWw6p8MN+g0oobjPz4Yq1V05SBYaW+6MMd3eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quelepa\\source\\repos\\Utilerias\\Utilerias.Application\\Utilerias.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quelepa\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Quelepa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
